@@ -1,7 +1,7 @@
+pyopenssl
 torch
 torchvision
 fastapi
 uvicorn
 pydantic
 secrets
-pyopenssl
