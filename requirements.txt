@@ -3,7 +3,6 @@ setuptools
 wheel
 pyopenssl
 torch
-torchvision
 fastapi
 uvicorn
 pydantic
