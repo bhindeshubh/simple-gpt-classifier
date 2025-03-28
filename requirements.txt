@@ -1,3 +1,4 @@
+cryptography
 setuptools
 wheel
 pyopenssl
