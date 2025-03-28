@@ -1,3 +1,6 @@
 torch
+torchvision
 fastapi
 uvicorn
+pydantic
+secrets
